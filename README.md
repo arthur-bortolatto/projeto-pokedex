@@ -8,3 +8,7 @@ Projeto realizando durante Workshop de uma semana do Dev em Dobro.🧙‍♂️
 - HTML
 - CSS
 - JS
+
+## Como utilizar
+
+- Clique no ícone de sol para alterar para o modo escuro da pokedex.
